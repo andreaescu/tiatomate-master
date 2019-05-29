@@ -1,0 +1,45 @@
+.section {
+  background-color: $jelly-bean;
+  color: $white;
+  font-family: $raleway;
+  padding-top: 5px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+.section__titulo{
+  font-size: $xx-large;
+  font-weight: $extra-light;
+}
+.section__titulo__bajada{
+  font-size: $xx-large;
+  font-weight: $bold;
+}
+
+.descripcion {
+  background-color: $taupe-gray;
+  font-family: $raleway;
+  color: $white;
+  padding-bottom: 50px;
+}
+h3 {
+  font-size: $large;
+  text-align: center;
+}
+p {
+  font-size: $medium;
+  padding-left: 350px;
+  padding-right: 350px;
+  padding-bottom: 20px;
+  text-align: left;
+}
+
+.limache {
+  background-color: $white;
+  color: $granite-gray;
+  font-family: $raleway;
+  text-align: center;
+}
+
+h2{
+  font-size: $x-large;
+}
